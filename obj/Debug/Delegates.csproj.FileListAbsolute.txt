@@ -1,0 +1,7 @@
+C:\Users\surfa\source\repos\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\surfa\source\repos\Delegates\bin\Debug\Delegates.exe
+C:\Users\surfa\source\repos\Delegates\bin\Debug\Delegates.pdb
+C:\Users\surfa\source\repos\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Users\surfa\source\repos\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\surfa\source\repos\Delegates\obj\Debug\Delegates.exe
+C:\Users\surfa\source\repos\Delegates\obj\Debug\Delegates.pdb
